@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>01802.jpg</filename>
+	<path>E:\datasets\fire\3\new\01802.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>489</width>
+		<height>302</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>90</ymin>
+			<xmax>404</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

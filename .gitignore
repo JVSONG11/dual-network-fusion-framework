@@ -1,0 +1,56 @@
+﻿# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode local settings
+.vscode/
+
+# Dataset files
+datasets/
+dataset/
+data/
+Data/
+images/
+labels/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+*.engine
+*.weights
+*.ckpt
+
+# Training outputs
+runs/
+outputs/
+results/
+logs/
+wandb/
+tensorboard/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large compressed files
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Temporary files
+*.tmp
+*.log

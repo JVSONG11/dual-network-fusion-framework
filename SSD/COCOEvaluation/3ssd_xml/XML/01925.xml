@@ -1,0 +1,27 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>01925.jpg</filename>
+	<path>E:\0909\SSD\COCOEvaluation\3ssd_xml\01925.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>487</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<score>0.7469218373298645</score>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>194</ymin>
+			<xmax>524</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

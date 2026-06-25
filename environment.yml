@@ -1,0 +1,26 @@
+name: dual-network-fusion
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip=24.0
+  - numpy=1.26.4
+  - pandas=2.1.4
+  - scipy=1.11.4
+  - matplotlib=3.8.4
+  - pillow=10.3.0
+  - opencv=4.9.0
+  - tqdm=4.66.4
+  - h5py=3.11.0
+  - pyyaml=6.0.1
+  - pytorch=2.1.2
+  - torchvision=0.16.2
+  - cpuonly
+  - tensorboard=2.16.2
+  - pip:
+      - pycocotools==2.0.7
+      - numba==0.59.1
+      - ipdb==0.13.13
+      - thop==0.1.1.post2209072238
+

@@ -1,0 +1,14 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>02611.jpg</filename>
+	<path>E:\datasets\make_ssd\1Annotations_txt2xml\dataset_txt\02611.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>888</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

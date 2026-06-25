@@ -1,0 +1,28 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+The original code and modifications authored for this repository are licensed
+under the GNU Affero General Public License, version 3.0 (AGPL-3.0-only).
+
+The complete license text is included in this repository at:
+
+    YOLO/LICENSE
+
+It is also available from the GNU Project at:
+
+    https://www.gnu.org/licenses/agpl-3.0.txt
+
+SPDX-License-Identifier: AGPL-3.0-only
+
+This repository also contains third-party components under their own licenses.
+In particular:
+
+* Main/ contains MIT-licensed code; see Main/LICENSE.
+* SSD/ contains MIT-licensed code; see SSD/LICENSE.
+* YOLO/ contains AGPL-3.0-licensed code; see YOLO/LICENSE.
+
+The AGPL-3.0 declaration in this file does not replace third-party copyright
+notices, relicense third-party material, or grant rights to datasets,
+annotations, prediction files, or model weights where such rights have not
+been explicitly stated.
+

@@ -1,0 +1,31 @@
+Dual-network fusion framework
+
+Repository-level license
+------------------------
+
+Unless a file or directory states otherwise, original code and modifications
+authored for this repository are licensed under AGPL-3.0-only. See LICENSE.
+
+Third-party code
+----------------
+
+Main/
+  MIT License. Copyright (c) 2020 ZFTurbo (Roman Solovyev).
+  See Main/LICENSE.
+
+SSD/
+  MIT License. Copyright (c) 2020 JiaQi Xu.
+  See SSD/LICENSE.
+
+YOLO/
+  GNU Affero General Public License, version 3.
+  See YOLO/LICENSE and the copyright notices within that component.
+
+Non-code artifacts
+------------------
+
+No license is currently asserted here for datasets, images, annotations,
+prediction files, or trained model weights unless an artifact has its own
+explicit license notice. Their inclusion in the repository must not be read as
+permission for unrestricted redistribution or commercial use.
+
